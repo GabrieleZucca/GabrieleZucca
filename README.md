@@ -1,0 +1,3 @@
+- 🏠 Trieste, Italy.
+- 📚 Medicine @UniTS.
+- 🔧 Perl, Python, R, Bash, ImageJ, GNU/Linux.
